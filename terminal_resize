@@ -1,0 +1,3 @@
+Requires ImageMagick
+
+magick mogrify -resample (desired dpi) *.tiff
