@@ -5,9 +5,15 @@ As the DCA's Getty Marrow Digital Archive Assistant this summer, I worked on pro
 
 
 
-**Digitization**
+**Digitization:**
 
-**Metadata**
+Images should be high quality TIFF files with a minimum 300 dpi. For the sake of preservation and for future copies, all file uploads on Airtable should meet these standards. 
+
+Images must be delivered by vendor via USB stick or hard drive in order to maintain fie integrity. 
+
+File naming must follow naming convention. Naming convention is as follows: first initial, last name, number of artwork (assigned based on timeline of entry, i.e. 001 for the earliest entry).
+
+**Cataloging & descriptive information:**
 
 
 
