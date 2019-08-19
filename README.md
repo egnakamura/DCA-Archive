@@ -15,8 +15,22 @@ File naming must follow naming convention. Naming convention is as follows: firs
 
 **Cataloging & descriptive information:**
 
-
-
+| Field Name    | 
+| ------------- |
+|           ID  | 
+| Artist        | 
+| Image         | 
+| Title         | 
+| Image Caption | 
+| Year          | 
+| Credit Line   | 
+| Collection    | 
+|Photography Credit|
+| Hi-Res        | 
+| Contact       | 
+| Publication   | 
+|Linked Publication| 
+|Publicaton Date| 
 
 
 **Website URL:** https://airtable.com/shrjdiS8jbnDb3Nlz
